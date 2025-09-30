@@ -19,6 +19,7 @@ Home – Menampilkan daftar event terbaru dan populer.
 Upload Event – Memungkinkan komunitas atau individu mengunggah event mereka.
 Favorit – Pengguna dapat menyimpan event pilihan untuk diakses kembali.
 Profil – Menyediakan halaman profil pengguna untuk mengelola data pribadi dan event yang diunggah
+
 E. Timeline Pengembangan
 Minggu
 Kegiatan
@@ -40,5 +41,6 @@ Pengujian internal & eksternal, debugging, dan penyempurnaan UI
 Dokumentasi teknis & pengguna, screenshot aplikasi, penyusunan laporan
 16
 Finalisasi laporan, pembuatan slide presentasi, latihan & simulasi demo proyek akhir
+
 
 
